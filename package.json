@@ -5,5 +5,15 @@
   },
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "engines": {
+    "node": "^18"
+  },
+  "name": "asset-handler",
+  "description": "Just handling my assets",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Sumrender",
+  "license": "ISC"
 }
